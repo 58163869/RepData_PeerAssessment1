@@ -14,7 +14,7 @@ library(plyr)
 ```
 
 # Reading the dataset and processing the data
-activity.csv and checking first part of file
+Loading activity.csv and checking first part of file
 ```{r}
 activity <- read.csv("activity.csv")
 

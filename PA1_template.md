@@ -37,7 +37,7 @@ Loading required packages into R
 Reading the dataset and processing the data
 ===========================================
 
-activity.csv and checking first part of file
+Loading activity.csv and checking first part of file
 
     activity <- read.csv("activity.csv")
 
